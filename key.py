@@ -1,0 +1,10 @@
+#!/usr/bin/env python2
+
+name = input('What is your name? ')
+print('Hello ' + name)
+
+job = input('What is your job? ')
+print('Your job is ' + job)
+
+num = input('Give me a number? ')
+print('You said: ' + str(num))
