@@ -22,7 +22,7 @@ def fib2(n):
         count += 1
     return result
 
-#print(fib2(20))
+print(fib2(20))
 
 print(fib3(65536))
 
